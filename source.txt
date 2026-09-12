@@ -1,0 +1,4 @@
+Hello! This is a test of the GhostWriter typing engine.
+
+We are building this project step by step using Python.
+The program will read this text from a file and type it into another application.
